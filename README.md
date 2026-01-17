@@ -54,4 +54,4 @@ It is designed to highlight my ability to **implement, explain, and apply ML con
 
 Clone the repository and install dependencies:
 
-pip install -r requirements.txt
+pip install -r requirement.txt
