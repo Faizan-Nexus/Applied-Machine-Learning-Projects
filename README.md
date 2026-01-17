@@ -53,5 +53,7 @@ It is designed to highlight my ability to **implement, explain, and apply ML con
 ## How to Run
 
 Clone the repository and install dependencies:
+
 clone the repositry using git clone
+
 pip install -r requirement.txt
